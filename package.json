@@ -1,0 +1,25 @@
+{
+  "name": "fikri-haikal-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FikriiHaikal/Fikri-Haikal-BackEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FikriiHaikal/Fikri-Haikal-BackEnd/issues"
+  },
+  "homepage": "https://github.com/FikriiHaikal/Fikri-Haikal-BackEnd#readme",
+  "description": "",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "pg": "^8.13.3"
+  }
+}
